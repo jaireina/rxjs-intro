@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-intro",
+  "version": "1.0.0",
+  "description": "This is a repo I used to practice some of intro concepts to rxjs.",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.6.3",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaireina/rxjs-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaireina/rxjs-intro/issues"
+  },
+  "homepage": "https://github.com/jaireina/rxjs-intro#readme"
+}
